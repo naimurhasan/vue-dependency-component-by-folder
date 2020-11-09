@@ -1,3 +1,5 @@
+![Screenshot](https://image.prntscr.com/image/_xor4uI_Sp_5utSxeJtsHA.png)
+
 # vue-dynamic
 
 ## Project setup
